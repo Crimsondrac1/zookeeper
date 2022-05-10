@@ -138,6 +138,16 @@
         "jerk"
       ],
       "id": "13"
+    },
+    {
+      "name": "Billy",
+      "species": "Baboon",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
